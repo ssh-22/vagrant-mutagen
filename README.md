@@ -10,6 +10,11 @@ You need to install the following softwares in advance.
 - Vagrant
 - VirtualBox
 
+## Install
+```sh
+git clone https://github.com/ssh-22/vagrant-mutagen.git
+```
+
 ## SetUp
 ```sh
 varant up
