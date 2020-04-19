@@ -6,6 +6,5 @@ sync:
     ignore:
       vcs: true
       paths:
-        - "/node_modules"
         - "/log"
         - "/tmp"
