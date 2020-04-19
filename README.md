@@ -17,6 +17,7 @@ git clone https://github.com/ssh-22/vagrant-mutagen.git
 
 ## SetUp
 ```sh
+vagrant plugin install vagrant-disksize vagrant-hostsupdater vagrant-mutagen
 varant up
 vagrant ssh
 ```
